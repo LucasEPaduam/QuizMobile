@@ -1,0 +1,10 @@
+com/example/quizlucas/Questao.java
+ com.example.quizlucas.Questao
+com/example/quizlucas/Activity2.java
+ com.example.quizlucas.Activity2
+com/example/quizlucas/MainActivity.java
+ com.example.quizlucas.MainActivity
+com/example/quizlucas/BuildConfig.java
+ com.example.quizlucas.BuildConfig
+com/example/quizlucas/Resultado.java
+ com.example.quizlucas.Resultado
